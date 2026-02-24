@@ -130,6 +130,8 @@ plt.title("Correlation Heatmap - Titanic Dataset")
 plt.show()
 
 ```
+OUTPUT:
+
 <img width="1920" height="1080" alt="Screenshot (154)" src="https://github.com/user-attachments/assets/16453ac7-7d11-4bde-bc76-299730539ef0" />
 
 <img width="1920" height="1080" alt="Screenshot (155)" src="https://github.com/user-attachments/assets/5f91e2c5-77f2-43f2-8326-6a8ba51a43b0" />
